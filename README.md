@@ -3,8 +3,7 @@ BOT awto like
 Bot Awto comment
 Bot awto take token
 
-#Tutorial
-Python2
-Git
+# install
 
-#untuk tutorial lebih lengkapnya "thefoolnoob.zone.id
+# tutorial lebih lengkapnya 
+"thefoolnoob.zone.id"
